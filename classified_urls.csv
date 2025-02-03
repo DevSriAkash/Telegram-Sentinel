@@ -1,0 +1,9 @@
+url,prediction,prediction_label
+Gate.io,1,Malicious
+karlsencoin.com/docs/karlsen-whitepaper-v1.0.1.pdf,0,Benign
+kls.2miners.com,1,Malicious
+solo-kls.2miners.com,1,Malicious
+www.karlsencoin.com/tokenomics.html,0,Benign
+www.gate.io/announcements/article/43080,0,Benign
+2miners.com/blog/january-2025-work-progress-report-changes-to-btc-payouts-for-bitcoin-gold-mining,0,Benign
+2cryptocalc.com/kls-mining-calculator,0,Benign
